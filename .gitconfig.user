@@ -1,8 +1,0 @@
-[user]
-	email = sudarshan61kv@gmail.com
-	name = Sudharshan V
-    signingkey = sudarshan61kv@gmail.com
-[commit]
-    gpgsign = true
-[tag]
-    gpgSign = true

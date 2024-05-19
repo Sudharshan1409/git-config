@@ -1,5 +1,6 @@
 [init]
 	defaultBranch = main
+; user config
 [user]
 	email = sudarshan61kv@gmail.com
 	name = Sudharshan V
@@ -8,3 +9,9 @@
     gpgsign = true
 [tag]
     gpgSign = true
+[alias]
+    remotes = remote -v
+    branches = branch -a
+    tags = tag -l
+[pull]
+    rebase = false
