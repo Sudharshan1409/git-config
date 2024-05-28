@@ -14,8 +14,6 @@ git clone https://github.com/Sudharshan1409/git-config.git ~/.config/git
 ```plaintext
 [include]
     path = ~/.config/git/.gitconfig
-[include]
-    path = ~/.config/git/.gitconfig.user
 ```
 
 ## Yor're All Set!
